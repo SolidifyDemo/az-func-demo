@@ -11,6 +11,6 @@ ChargeBackTable
 ```
 
 
-## Architechture example
+## Architecture example
 
 ![image](https://github.com/SolidifyDemo/az-func-demo/assets/1208114/241083f5-2d74-4ef6-8590-f98a80f2b767)
